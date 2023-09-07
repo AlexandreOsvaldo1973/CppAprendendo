@@ -1,4 +1,3 @@
-*.[exe]
-*~
+*.exe
 doc/*.txt
 doc/*.pdf
